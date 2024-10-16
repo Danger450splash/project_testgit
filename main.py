@@ -9,4 +9,4 @@ class webPockets:
         print(f'{self.fullpockets}')
 
     def webster_message(self) -> None:
-        print(f'Web Pockets is having an network issue.')
+        print(f'Web Pockets has been fixed.')
