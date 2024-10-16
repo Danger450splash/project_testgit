@@ -9,4 +9,4 @@ class webPockets:
         print(f'{self.fullpockets}')
 
     def webster_message(self) -> None:
-        print(f'Testing Web Pockets OverwrittenZ')
+        print(f'Testing Web Pockets has been Upgraded')
